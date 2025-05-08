@@ -1,5 +1,6 @@
 # A/B Testing
 A/B testing, also known as split testing, is a method of comparing two versions of a webpage, app, or other user experiences to determine which one performs better.
+
 Steps for Running A/B Tests:
 Based on the data there are two types of A/B tests we can run.
 Binary A/B Testing: Learn how to compare two versions of a binary outcome to determine which one performs better.
